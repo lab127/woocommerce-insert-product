@@ -1,1 +1,1 @@
-# woocommerce-insert-product
+# WooCommerce Insert Product
