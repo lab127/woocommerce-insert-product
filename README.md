@@ -1,6 +1,6 @@
 # WooCommerce Insert Product
 
-- import `casingwp_db.sql` ke database
+- import `db.sql` ke database
 - clone `woocommerce-insert-product` ke root folder `public_html`
 
 ### Tweak image
